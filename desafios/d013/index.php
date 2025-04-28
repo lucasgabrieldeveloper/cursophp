@@ -57,7 +57,7 @@
             <li><img src="img/10-reais.jpg" alt="10" class="nota"> x<?= $notas10 ?></li>
             <li><img src="img/5-reais.jpg" alt="5" class="nota"> x<?= $notas5 ?></li>
             <li><img src="img/2-reais.jpg" alt="2" class="nota"> x<?= $notas2 ?></li>
-            <li><img src="img/1-real.jpg" alt="1" class="nota"> x<?= $notas1 ?></li>
+            <li><img src="img/1-real.jpg" alt="1" class="nota"> x<?= $notas1 ?></li>  
         </ul>
     </section>
 </body>
